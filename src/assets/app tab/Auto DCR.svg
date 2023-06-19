@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4891" data-name="Rectangle 4891" width="30" height="30" transform="translate(0 0.018)" fill="#fff" stroke="#aaa" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Auto_DCR" data-name="Auto DCR" transform="translate(0 -0.018)" clip-path="url(#clip-path)">
+    <g id="Group_12674" data-name="Group 12674" transform="translate(-181 -303.872)">
+      <path id="Path_25076" data-name="Path 25076" d="M195.611,332.89v-4.662H210v4.662H183v-27h15.378l5.2,5.2-.034,6" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle id="Ellipse_44" data-name="Ellipse 44" cx="2.381" cy="2.381" r="2.381" transform="translate(186.226 325.021)" fill="none" stroke="#21b454" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1872" data-name="Line 1872" x2="6.266" transform="translate(186.226 316.304)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1873" data-name="Line 1873" x2="9.41" transform="translate(186.226 319.474)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_25077" data-name="Path 25077" d="M311.18,312.061h-6.322V305.89" transform="translate(-107.552)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_25078" data-name="Path 25078" d="M319.484,411.949c-.218-3.656-1.627-5.869-1.627-7.58a3.91,3.91,0,0,1,7.8,0c0,1.811-1.635,5.115-1.434,7.58" transform="translate(-119.026 -83.722)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5029" data-name="Rectangle 5029" width="30" height="30" transform="translate(0 0.405)" fill="#fff" stroke="#aaa" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Contract_Registration" data-name="Contract Registration" transform="translate(0 -0.405)" clip-path="url(#clip-path)">
+    <g id="Group_12663" data-name="Group 12663" transform="translate(-122.714 -255.968)">
+      <path id="Path_25064" data-name="Path 25064" d="M134.619,284.347h-4.025a5.88,5.88,0,0,1-5.88-5.88V265.253a5.88,5.88,0,0,1,5.88-5.88h12.87a5.88,5.88,0,0,1,5.88,5.88v1.45" fill="none" stroke="#aaa" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1850" data-name="Line 1850" x2="12.5" transform="translate(139.214 284.347)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1851" data-name="Line 1851" x2="11.753" transform="translate(128.999 265.312)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1852" data-name="Line 1852" x2="7.479" transform="translate(128.999 269.129)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1853" data-name="Line 1853" x2="7.479" transform="translate(128.999 273.18)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_25065" data-name="Path 25065" d="M323.312,418.356l6.41-6.41L327.1,409.32l-6.41,6.41-.257,2.827Z" transform="translate(-180.467 -137.265)" fill="none" stroke="#21b454" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

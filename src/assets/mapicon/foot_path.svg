@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5765" data-name="Rectangle 5765" width="45" height="45" transform="translate(442 113)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="foot_path" transform="translate(-442 -113)" clip-path="url(#clip-path)">
+    <g id="noun-pedestrian-4303104" transform="translate(295.407 42.336)">
+      <path id="Path_28044" data-name="Path 28044" d="M442.359,357.06l6.276,12.9h-7.881l-3.274-12.9Z" transform="translate(-259.501 -256.669)" fill="#fd6f02" fill-rule="evenodd"/>
+      <path id="Path_28045" data-name="Path 28045" d="M314.421,369a7.5,7.5,0,0,1-.269.78l-3.405,5.042-.789,5.9h7.914l-.4-2.955a2.832,2.832,0,0,1-.447-.234,3.286,3.286,0,0,1-1.4-2.368l-.965-5.858Z" transform="translate(-144.56 -267.431)" fill="#fd6f02" fill-rule="evenodd"/>
+      <path id="Path_28046" data-name="Path 28046" d="M155.847,357.06l-6.273,12.9h7.878l3.277-12.9Z" transform="translate(0 -256.669)" fill="#fd6f02" fill-rule="evenodd"/>
+      <path id="Path_28047" data-name="Path 28047" d="M306.926,72.3a4.021,4.021,0,1,0,1.559.329,4.026,4.026,0,0,0-1.559-.329Z" transform="translate(-138.175 0)" fill="#343434" fill-rule="evenodd"/>
+      <path id="Path_28048" data-name="Path 28048" d="M258.42,176.453a1.776,1.776,0,0,0-1.042.345l-4.6,3.418a1.757,1.757,0,0,0-.675,1.078l-1.491,5.6a1.745,1.745,0,1,0,3.428.658l1.365-4.933,1.209-.9V187.3a2.043,2.043,0,0,0,.441,1.257l5.24,6.695,1.026,6.227a2.045,2.045,0,1,0,4.032-.659l-1.1-6.75a2.094,2.094,0,0,0-.409-.931l-3.986-5.078.025-5.2,1.368,1.959a1.723,1.723,0,0,0,.521.483l3.75,2.3a1.745,1.745,0,1,0,1.819-2.978l-3.44-2.1L262.19,177.2a1.741,1.741,0,0,0-1.429-.745H258.42Z" transform="translate(-91.038 -93.88)" fill="#343434" fill-rule="evenodd"/>
+      <path id="Path_28049" data-name="Path 28049" d="M262.778,316.81l-.866,3.24-4.357,6.461a2.046,2.046,0,1,0,3.389,2.283l4.553-6.74a1.943,1.943,0,0,0,.438-1.214Z" transform="translate(-96.917 -220.391)" fill="#343434" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

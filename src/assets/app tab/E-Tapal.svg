@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4893" data-name="Rectangle 4893" width="30" height="30" transform="translate(0 -0.115)" fill="#fff" stroke="#707070" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="E-Tapal" transform="translate(0 0.115)" clip-path="url(#clip-path)">
+    <g id="Group_12679" data-name="Group 12679" transform="translate(-161.714 -303.576)">
+      <path id="Path_25086" data-name="Path 25086" d="M172.166,309.019l4.981-3.558,13.433,9.388v17.28a.332.332,0,0,1-.332.332H164.216a.5.5,0,0,1-.5-.5v-16.9l5.3-3.787" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_25087" data-name="Path 25087" d="M165.118,450.535l6.57-6.6,6.22-6.251a.7.7,0,0,1,.993,0l6.22,6.251,6.655,6.609" transform="translate(-1.257 -118.221)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1878" data-name="Line 1878" x1="8.769" y1="8.59" transform="translate(163.714 315.058)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1879" data-name="Line 1879" y1="8.889" x2="8.679" transform="translate(181.9 314.849)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1880" data-name="Line 1880" x1="0.068" y2="9.153" transform="translate(185.242 311.163)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_25088" data-name="Path 25088" d="M215.091,351.4V340.175h13.244" transform="translate(-46.01 -31.088)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1881" data-name="Line 1881" x2="8.269" transform="translate(173.087 313.327)" fill="none" stroke="#21b454" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1882" data-name="Line 1882" x2="8.269" transform="translate(173.087 316.983)" fill="none" stroke="#21b454" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

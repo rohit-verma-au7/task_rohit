@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="30" height="30" transform="translate(30 172)" fill="#fff" stroke="#21b454" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="dashboard" transform="translate(-30 -172)" clip-path="url(#clip-path)">
+    <g id="Group_9" data-name="Group 9" transform="translate(32 174)">
+      <g id="Group_8" data-name="Group 8">
+        <path id="Path_11" data-name="Path 11" d="M496.451,495.017V476.555a4.168,4.168,0,0,1,4.061-4.269H519.39a4.168,4.168,0,0,1,4.061,4.269v18.462a4.169,4.169,0,0,1-4.061,4.269H500.512" transform="translate(-496.451 -472.286)" fill="none" stroke="#21b454" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_4" data-name="Line 4" y1="7.269" transform="translate(6.411 13.918)" fill="none" stroke="#21b454" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_5" data-name="Line 5" y1="16.39" transform="translate(13.5 5.379)" fill="none" stroke="#21b454" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_6" data-name="Line 6" y1="10.385" transform="translate(20.126 10.695)" fill="none" stroke="#21b454" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="1.558" cy="1.558" r="1.558" transform="translate(18.581 4.195)" fill="none"/>
+    </g>
+  </g>
+</svg>

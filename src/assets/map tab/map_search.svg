@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5605" data-name="Rectangle 5605" width="45" height="45" transform="translate(5966 2092)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="map_search" transform="translate(-5966 -2092)" clip-path="url(#clip-path)">
+    <g id="Group_13226" data-name="Group 13226" transform="translate(5098.714 1626.429)">
+      <line id="Line_1936" data-name="Line 1936" x2="40" transform="translate(870.286 472.571)" fill="none" stroke="#4b4b4b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1937" data-name="Line 1937" x2="9.778" transform="translate(870.286 482.794)" fill="none" stroke="#4b4b4b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1938" data-name="Line 1938" x2="9.778" transform="translate(870.286 492.349)" fill="none" stroke="#4b4b4b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1939" data-name="Line 1939" x2="19.937" transform="translate(870.286 502.349)" fill="none" stroke="#4b4b4b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_27833" data-name="Path 27833" d="M959.582,506.444a9.73,9.73,0,1,1-9.73-9.73A9.716,9.716,0,0,1,959.582,506.444Z" transform="translate(-54.317 -18.778)" fill="none" stroke="#f07a1a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1940" data-name="Line 1940" x1="8.417" y1="8.417" transform="translate(901.456 495.361)" fill="none" stroke="#f07a1a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

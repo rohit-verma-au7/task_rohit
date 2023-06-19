@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5675" data-name="Rectangle 5675" width="45" height="45" transform="translate(442 113)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="landuse_landcover" transform="translate(-442 -113)" clip-path="url(#clip-path)">
+    <g id="Group_13250" data-name="Group 13250" transform="translate(-966.643 -2674.072)">
+      <path id="Path_27926" data-name="Path 27926" d="M1426.243,2791.072a6.844,6.844,0,0,0-6.844,6.844c0,3.779,6.843,12.413,6.843,12.413s6.842-8.634,6.842-12.413h0A6.844,6.844,0,0,0,1426.243,2791.072Zm0,9.166a2.489,2.489,0,1,1,2.489-2.488A2.489,2.489,0,0,1,1426.239,2800.238Z" transform="translate(-0.799)" fill="#fd6f02"/>
+      <path id="Path_27927" data-name="Path 27927" d="M1417.6,2819.44h10.08l-6.536,10.71-10,.079Z" transform="translate(0 -2.745)" fill="#343434"/>
+      <path id="Path_27928" data-name="Path 27928" d="M1432.907,2815.334l16.222-.079-6.773,14.569-18.27-.079Z" transform="translate(-1.253 -2.34)" fill="#343434"/>
+      <path id="Path_27929" data-name="Path 27929" d="M1426.087,2813.7s-1.535-1.939-3.233-4.46l-4.235,7.642,10.336-.05,5.363-8.083-4.9.345C1427.682,2811.688,1426.087,2813.7,1426.087,2813.7Z" transform="translate(-0.724 -1.711)" fill="#fd6f02"/>
+      <path id="Path_27930" data-name="Path 27930" d="M1437.7,2809.177l15.77.118-2.126,3.957h-16.124Z" transform="translate(-2.33 -1.752)" fill="#343434"/>
+    </g>
+  </g>
+</svg>

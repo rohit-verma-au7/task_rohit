@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5602" data-name="Rectangle 5602" width="45" height="45" transform="translate(5966 2092)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="table_of_content" transform="translate(-5966 -2092)" clip-path="url(#clip-path)">
+    <g id="Group_13225" data-name="Group 13225" transform="translate(5879.593 2028.801)">
+      <rect id="Rectangle_5600" data-name="Rectangle 5600" width="15.826" height="15.826" rx="7.913" transform="translate(89.407 67.199)" fill="none" stroke="#4b4b4b" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1941" data-name="Line 1941" x2="16.123" transform="translate(110.39 70.092)" fill="none" stroke="#f07a1a" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1942" data-name="Line 1942" x2="10.749" transform="translate(110.39 75.334)" fill="none" stroke="#f07a1a" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1943" data-name="Line 1943" x2="19.017" transform="translate(110.39 80.428)" fill="none" stroke="#f07a1a" stroke-miterlimit="10" stroke-width="2.5"/>
+      <rect id="Rectangle_5601" data-name="Rectangle 5601" width="15.826" height="15.826" rx="7.913" transform="translate(89.407 88.313)" fill="none" stroke="#4b4b4b" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1944" data-name="Line 1944" x2="16.123" transform="translate(110.39 91.206)" fill="none" stroke="#4b4b4b" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1945" data-name="Line 1945" x2="10.749" transform="translate(110.39 96.448)" fill="none" stroke="#4b4b4b" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1946" data-name="Line 1946" x2="19.017" transform="translate(110.39 101.542)" fill="none" stroke="#4b4b4b" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

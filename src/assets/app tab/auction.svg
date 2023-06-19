@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4998" data-name="Rectangle 4998" width="30" height="30" transform="translate(120.286 176.286)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="auction" transform="translate(-120.286 -176.286)" clip-path="url(#clip-path)">
+    <g id="Group_12661" data-name="Group 12661" transform="translate(-112.727 -186.166)">
+      <path id="Rectangle_5030" data-name="Rectangle 5030" d="M0,0H20.257a0,0,0,0,1,0,0V1.406a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="translate(235.714 388.046)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_5031" data-name="Rectangle 5031" width="13.622" height="0.086" rx="0.043" transform="translate(252.654 384.933) rotate(180)" fill="none" stroke="#21b454" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Rectangle_5032" data-name="Rectangle 5032" d="M0,0H8.732a0,0,0,0,1,0,0V1.01a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="matrix(0.764, 0.645, -0.645, 0.764, 242.996, 373.051)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Rectangle_5033" data-name="Rectangle 5033" d="M0,0H8.732a0,0,0,0,1,0,0V1.01a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="matrix(-0.764, -0.645, 0.645, -0.764, 255.463, 372.382)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1845" data-name="Line 1845" y1="4.418" x2="3.89" transform="translate(244.845 368.175)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_25059" data-name="Path 25059" d="M306.72,403.259l-1,1a.521.521,0,0,0,.028.762l7.731,6.69a1.4,1.4,0,0,1,.168,1.974h0a1.4,1.4,0,0,1-1.974.168l-7.668-6.881a.521.521,0,0,0-.744.05l-.881,1.033" transform="translate(-52.967 -30.832)" fill="none" stroke="#aaa" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

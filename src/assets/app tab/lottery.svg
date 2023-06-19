@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4905" data-name="Rectangle 4905" width="30" height="30" transform="translate(0 -0.46)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="lottery" transform="translate(0 0.46)" clip-path="url(#clip-path)">
+    <g id="Group_12660" data-name="Group 12660" transform="translate(3.221 1.442)">
+      <path id="Path_25050" data-name="Path 25050" d="M1862.9,4620.967l3.321-2.384,2.974,2.384,3.965-2.384,2.726,2.384,4.213-2.384,3.321,2.384,3.123-2.384V4600.5l-6.444-6.754h-17.2Z" transform="translate(-1862.9 -4593.75)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_25051" data-name="Path 25051" d="M1925.2,4603.75v7.033h6.939" transform="translate(-1908.05 -4603.75)" fill="none" stroke="#aaa" stroke-width="1.5"/>
+      <path id="Path_25052" data-name="Path 25052" d="M1911.2,4616.2h9.913" transform="translate(-1907.928 -4605.369)" fill="#555a61" stroke="#aaa" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_25053" data-name="Path 25053" d="M1925.2,4616.2h3.965" transform="translate(-1908.05 -4605.369)" fill="#555a61" stroke="#aaa" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_25056" data-name="Path 25056" d="M1911.2,4630.667h17.976" transform="translate(-1907.928 -4610.723)" fill="none" stroke="#21b454" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_25057" data-name="Path 25057" d="M1911.2,4624.5h9.054" transform="translate(-1907.928 -4609.01)" fill="#555a61" stroke="#aaa" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_25058" data-name="Path 25058" d="M1924.2,4624.5h5.584" transform="translate(-1908.042 -4609.01)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
